@@ -1,6 +1,4 @@
-Certainly! Here's a modernized version of the documentation with improved examples:
 
----
 
 ## Ephemeral Macros
 
